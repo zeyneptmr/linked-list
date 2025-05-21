@@ -1,4 +1,4 @@
-# Linked List Merge Project
+# Linked List Project
 
 This project is a C++ implementation of **singly linked lists**, including:
 
