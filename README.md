@@ -17,3 +17,13 @@ Main source file: `linkedmerge.cpp`
 - Clean deletion with user feedback
 - Sorted merge functionality
 - Real-time stats: insert, delete, merge, opCount
+
+## Files
+
+- `linkedmerge.cpp`: Main C++ source file for the linked list implementation
+
+## How to Compile & Run (optional)
+
+```bash
+g++ linkedmerge.cpp -o linkedmerge
+./linkedmerge
